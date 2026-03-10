@@ -45,4 +45,3 @@ Data analyst from Morādābād, UP, passionate about Power BI dashboards and res
 
 Support:
 Star ⭐ the repo, fork for your versions, or open issues for feedback. Contributions welcome via PRs.
-"C:\Users\divya\OneDrive\Pictures\Screenshots\Screenshot 2026-03-10 221659.png"
